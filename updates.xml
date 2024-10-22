@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/metadata" protocol="2.0">
     <app appid="abmmncemdbbeomefedcppldbdemnfoid">
-        <updatecheck codebase="https://yourusername.github.io/my-chrome-extension-updates/your_extension.zip" version="1.0" />
+        <updatecheck codebase="https://github.com/notcaden2/chrome-extension-updates/blob/main/extension.zip" version="1.0" />
     </app>
 </gupdate>
